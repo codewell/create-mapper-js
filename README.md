@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-npm install @codewell/map-js
+npm install @codewell/create-mapper-js
 ```
 
 ## Basic Usage
