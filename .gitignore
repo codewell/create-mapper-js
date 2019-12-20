@@ -1,0 +1,10 @@
+# Mac specific
+.DS_Store
+
+# Secret stuff
+.npmrc
+.env
+
+# Node package
+node_modules
+*.tgz
