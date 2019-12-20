@@ -1,4 +1,4 @@
-# @codewell/map-js
+# @codewell/create-mapper-js
 
 ## Installation
 ```
